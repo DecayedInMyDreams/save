@@ -3,3 +3,5 @@ local gameIDS = {
     [11143225577] = "1v1 Hood aim trainer",
     [2693152172] = "Test"
 }
+
+return gameIDS
